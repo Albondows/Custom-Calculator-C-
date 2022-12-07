@@ -1,0 +1,9 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\bin\Debug\Calculator-By-Ayman-Bouiraaman.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\bin\Debug\Calculator-By-Ayman-Bouiraaman.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator_By_Ayman_Bouiraaman.Properties.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator-By-Ayman-Bouiraaman.csproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator-By-Ayman-Bouiraaman.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator-By-Ayman-Bouiraaman.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator_By_Ayman_Bouiraaman.Calculator.resources
+C:\Users\DELL\Desktop\Calculator-Project-c#-VS2022-Aymanbouraaman\Calculator-By-Ayman-Bouiraaman\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator-By-Ayman-Bouiraaman.exe
+C:\Users\DELL\Desktop\Calculator-Project-c#-VS2022-Aymanbouraaman\Calculator-By-Ayman-Bouiraaman\Calculator-By-Ayman-Bouiraaman\obj\x86\Debug\Calculator-By-Ayman-Bouiraaman.pdb
